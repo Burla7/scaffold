@@ -1,2 +1,1 @@
 # scaffold
-version 2
